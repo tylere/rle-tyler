@@ -4,7 +4,7 @@ number-sections: false
 
 # Foreword {.unnumbered}
 
-{{< lipsum 1 >}}
+Here is some sample foreword text.
 
 ::: {.content-hidden unless-meta="show-instructions"}
 
